@@ -1,5 +1,8 @@
 # Seoul-Bike-Demand-Prediction
-Machine learning regression project
+
+# Machine learning regression project
+
+
 ![image](https://github.com/Gautamadarshi/Seoul-Bike-Demand-Prediction/assets/113924426/8e83601a-b757-4f54-903b-17990771086a)
 
 
