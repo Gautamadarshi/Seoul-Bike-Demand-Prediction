@@ -1,5 +1,8 @@
 # Seoul-Bike-Demand-Prediction
 Machine learning regression project
+![image](https://github.com/Gautamadarshi/Seoul-Bike-Demand-Prediction/assets/113924426/8e83601a-b757-4f54-903b-17990771086a)
+
+
 # Problem statement
 
 
@@ -20,14 +23,20 @@ This project not only provided valuable insights into bike demand patterns in Se
 The project successfully demonstrated the feasibility of using machine learning techniques to predict bike demand in Seoul.
 
 Some of the key points are:-
-    High demand in the morning and evening.
-    Less Demand in the winter season.
-    Highest demand in june.
-    Found multicollinearity between temperature and dew point temperature.
-    Perform linear regression, decision tree, random forest, gradient boosting, Xtreme gradient boosting. & got highest accuracy i.e 93% on train and 90% on test on Xtreme gradient boosting.
-    There is no use of removing outliers it affects negatively on model performance.
+
+*   High demand in the morning and evening.
+*   Less Demand in the winter season.
+*   Highest demand in june.
+*   Found multicollinearity between temperature and dew point temperature.
+*   Perform linear regression, decision tree, random forest, gradient boosting, Xtreme gradient boosting. & got highest accuracy i.e 93% on train and 90% on test on Xtreme gradient boosting.
+*   There is no use of removing outliers it affects negatively on model performance.
+  
 
 Overall, the project highlights the potential of machine learning in solving real-world problems and provides a roadmap for future research in this area. The findings of this project can be extended to other cities with similar bike sharing systems, leading to more effective and efficient bike sharing operations, and better outcomes for all stakeholders.
+
+# Final Conclusion
+
+It is quite evident from the results that lightGBM and Catboost is the best model that can be used for the Bike Sharing Demand Prediction since the performance metrics (mse,rmse) shows lower and (r2,adjusted_r2) show a higher value for the lightGBM and Catboost models !
 
 # Author
 Gautam Kumar Adarshi
